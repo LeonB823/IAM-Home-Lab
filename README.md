@@ -10,6 +10,6 @@ Hands on Identity and Access Management Labs using Entra ID
   
 **What I learned:** Access is managed through groups, not individuals (RBAC, least privilege).
 
-**Evidence** 
+**Evidence**:
 
 <img width="1676" height="917" alt="Screenshot 2026-10-27 at 9 17 57 PM" src="https://github.com/user-attachments/assets/3fcfbadc-3ea9-4d00-9a0f-6606634ed9fd" />
